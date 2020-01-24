@@ -1,6 +1,6 @@
 # CTEC 127 Winter 2019
 Project No. 2
-Due on Sunday, February 10, 2019
+Due on Sunday, February 4, 2020
 This project is worth 12% of your grade in CTEC 127
 
 ## Project Overview
